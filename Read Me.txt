@@ -1,0 +1,2 @@
+This Repository contains the Java code for a Java project in my masters degree, 
+the Project was to implement a search engine for multiple newspapers after crawling them using Java.
